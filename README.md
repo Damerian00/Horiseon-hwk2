@@ -63,6 +63,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Below you will see the finished website that includes the updated code so that the elements tags are not all divs. This site features new element tags that coincide with SEO protocol. I added header and nav tags to the top of the page where the navigation, the brand and the top portion of the site is. I then added main tag and some section tags to differentiate the middle section from the top and bottom. Then I finally added footer tag to represent the bottom portion of the page.
+
+
+
 [![Product Name Screen Shot](./assets/images/horiseon_ss.png)](https://example.com)
 
 
